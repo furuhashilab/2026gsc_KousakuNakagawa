@@ -68,4 +68,3 @@ OSMデータを地理院空中写真の上に重ねて表示するWebGISをGitHu
 
 © FuruhashiLabratory/Kousaku Nakagawa, CC BY 4.0（LICENSE.md参照）
 
-## 参考文献
