@@ -2,7 +2,7 @@
 2026年ゼミ論
 
 [・中間発表資料](https://docs.google.com/presentation/d/1iRBa9-VdKx5HcuJZUKSbswDXCGBSmOxG/edit?usp=sharing&ouid=116727038806830238669&rtpof=true&sd=true)
-
+[・MEDIUM記事](https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E8%AB%96%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8-4b7330bd0a2f?postPublishedType=initial)
 ## Theme
 
 東京・青山の商業地におけるオープン地図データの店舗情報の現地検証 ― Overture Maps の存在確率（confidence）は店舗の実在を予測できるか
