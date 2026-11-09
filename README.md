@@ -1,5 +1,6 @@
 # 2026gsc_KousakuNakagawa
 2026年ゼミ論
+・中間発表資料https://docs.google.com/presentation/d/1iRBa9-VdKx5HcuJZUKSbswDXCGBSmOxG/edit?usp=sharing&ouid=116727038806830238669&rtpof=true&sd=true
 
 ## Theme
 
